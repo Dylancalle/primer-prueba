@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3311db299213f2d5a09cfc847d9b0ff500676b2e",
     "author": "Dylan",
     "commit": {
       "date": "2025-06-12T20:48:50.000Z",
       "message": "Se creo un comentario vacio, esto para saber que pasa cuando hago un commit depues de otro y recien hago push",
-      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/3311db299213f2d5a09cfc847d9b0ff500676b2e"
     },
     "stats": {
       "total": 1,
       "additions": 1,
       "deletions": 0,
+      "date": "2025-06-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-06-12T22:36:10.000Z",
+      "message": "Se volvio al estado donde se dejo",
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-06-12"
     },
     "coverage": 100,
