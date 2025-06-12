@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-06-12T15:57:30.000Z",
+      "message": "Se creo un comentario vacio",
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2025-06-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
