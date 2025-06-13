@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bee6d23a4a045ee08fe66935b694f3ebc8001fc2",
     "author": "Dylan",
     "commit": {
       "date": "2025-06-13T04:14:09.000Z",
       "message": "Es bisisiesto si es divisible entre 400",
-      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/bee6d23a4a045ee08fe66935b694f3ebc8001fc2"
     },
     "stats": {
       "total": 20,
@@ -91,6 +91,25 @@
     },
     "coverage": 83.33,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-06-13T04:33:26.000Z",
+      "message": "dividible por 100 pero no por 400 no es bisiesto",
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-06-13"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

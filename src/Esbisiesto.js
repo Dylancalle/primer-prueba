@@ -5,7 +5,13 @@ function Esbisiesto(numero) {
         resultado= true
     }else{
         resultado= false
+    } if(numero % 100 == 0 && numero % 400 != 0)
+    {
+        resultado = false
+    }else{
+        resultado = true
     }
+    
     return resultado
   }
   
