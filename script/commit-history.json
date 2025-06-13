@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a970de75eb011d03acf63c2dad947722b5295d39",
     "author": "Dylan",
     "commit": {
       "date": "2025-06-13T04:33:26.000Z",
       "message": "dividible por 100 pero no por 400 no es bisiesto",
-      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/a970de75eb011d03acf63c2dad947722b5295d39"
     },
     "stats": {
       "total": 9,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-06-13T19:48:35.000Z",
+      "message": "divisibles por 4 pero no por 100 si son",
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 11,
+      "deletions": 8,
+      "date": "2025-06-13"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
