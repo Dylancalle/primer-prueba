@@ -10,4 +10,7 @@ describe("Es bisisesto", () => {
   it("deberia devolver que es verdadero si el año es divisible por 4 pero no por 100", () => {
     expect(Esbisiesto(400)).toEqual(true);
   });
+   it("deberia debolver false si no es divisible por 4", () => {
+    expect(Esbisiesto(2017)).toEqual(false);
+  });
 });

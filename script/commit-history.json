@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "db9f3ef9aa60d01a0501f9455c014aacd859fb6a",
     "author": "Dylan",
     "commit": {
       "date": "2025-06-13T19:48:35.000Z",
       "message": "divisibles por 4 pero no por 100 si son",
-      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/db9f3ef9aa60d01a0501f9455c014aacd859fb6a"
     },
     "stats": {
       "total": 19,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-06-13T20:01:16.000Z",
+      "message": "no es divisible por 4 no es",
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-06-13"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
