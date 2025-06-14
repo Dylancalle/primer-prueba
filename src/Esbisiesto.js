@@ -14,6 +14,6 @@ function Esbisiesto(numero) {
     }
     return resultado
   }
-  
+  /* */
   export default Esbisiesto;
   
