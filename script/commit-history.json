@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0372a140855629a4ad1d2a8ba1a916c311d195a7",
     "author": "Dylan",
     "commit": {
       "date": "2025-06-13T20:01:16.000Z",
       "message": "no es divisible por 4 no es",
-      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/0372a140855629a4ad1d2a8ba1a916c311d195a7"
     },
     "stats": {
       "total": 3,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-06-14T00:04:14.000Z",
+      "message": "Se elimino dos archivos y unas lineas de codigo",
+      "url": "https://github.com/Dylancalle/primer-prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 0,
+      "deletions": 37,
+      "date": "2025-06-14"
+    },
+    "coverage": 100,
+    "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
   }
